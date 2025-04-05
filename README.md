@@ -18,7 +18,7 @@ This EMI Calculator is a C++ console-based application developed for calculating
 6. User Input/Output
 7. Looping & Conditional Statements
 
-## Future Enhancements (Optional)
+## Future Enhancements
 1. Export EMI data to a CSV or Excel file.
 2. Add GUI using Qt or other C++ frameworks.
 3. Accept pre-payments and adjust future EMIs.
